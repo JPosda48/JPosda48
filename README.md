@@ -4,7 +4,7 @@
 
 <h1>Hi , I´m Juan Andrés Posada</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+%26+Developer;Passionate+about+Clean+Code+%26+Architecture" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+Developer;Passionate+about+Clean+Code+%26+Architecture" />
 
 <br><br>
 
