@@ -9,7 +9,7 @@
 <br><br>
 
 🎓 **Software Engineering Student**  
-💻 **Backend & Mobile Developer**  
+💻 **Backend**  
 🚀 Interested in scalable systems, cloud solutions and software quality  
 
 </div>
